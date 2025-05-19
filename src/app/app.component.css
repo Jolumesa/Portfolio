@@ -1,9 +1,13 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Codystar:wght@300;400&family=Dancing+Script:wght@400..700&family=Exile&family=Playwrite+DK+Loopet:wght@100..400&family=Prociono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Codystar:wght@300;400&family=Dancing+Script:wght@400..700&family=Exile&family=Permanent+Marker&family=Playwrite+DK+Loopet:wght@100..400&family=Prociono&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
 
-
-h1 {
-   font-family: "Codystar", sans-serif;
-  font-weight: 400;
+h1 { 
+  
+  font-family: "Saira", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
   font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    float:right
 }
